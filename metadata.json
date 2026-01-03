@@ -1,0 +1,9 @@
+{
+  "name": "STEM Robotics Presentation Master",
+  "description": "High-fidelity STEM & Robotics presentation suite optimized for universal device playback and social media video export.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
